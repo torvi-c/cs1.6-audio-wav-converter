@@ -7,7 +7,7 @@ There is not limit to how many files you can drag and drop in one go so go all o
 Made for cs 1.6 wav sound requirements*
 
 ## Wav Export Specifications - 
-### Channels: 1 
-### Audio Sample Rate: 22050Hz 
-### Audio Sample Size: 16bit Wav 
-### Bit Rate: 352kbps
+Channels: 1 
+Audio Sample Rate: 22050Hz 
+Audio Sample Size: 16bit Wav 
+Bit Rate: 352kbps
