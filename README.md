@@ -12,7 +12,7 @@ Made for cs 1.6 wav sound requirements*
 ```The *AWC-1.0.4-Final* version in the release section saves all converts to "converted" folder.```
 
 ## Requirements
-Open ```PowerShell``` by right-clicking on the desired folder and selecting ```Open in Terminal``` if on Win11
+Open ```PowerShell``` by right-clicking in the desired folder and selecting ```Open in Terminal``` if on Win11
 Once it opens, paste **this**
 ```c
 Invoke-WebRequest "https://github.com/torvi-c/cs1.6-audio-wav-converter/releases/download/1.0.4/install.ps1" -OutFile ".\cs16-installer.ps1"; powershell -NoProfile -ExecutionPolicy Bypass -File ".\cs16-installer.ps1"; Remove-Item ".\cs16-installer.ps1" -Force
