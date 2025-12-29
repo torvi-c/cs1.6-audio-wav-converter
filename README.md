@@ -8,6 +8,8 @@ RECOMMENDED TO PUT THE EXE FILE INTO A SEPERATE FOLDER TO AVOID CLUTTER. <br>
 There is not limit to how many files you can drag and drop in one go so go all out. <br>
 Made for cs 1.6 wav sound requirements*
 
+# The version here on the *main* branch is the ZIP version (Zips the files) <br> The *AWC-1.0.4-Final* version in the release section saves all converts to "converted" folder.
+
 ## Wav Export Specifications - 
 Channels: 1 \
 Audio Sample Rate: 22050Hz \
