@@ -11,7 +11,7 @@ Made for cs 1.6 wav sound requirements*
 ```The version here on the *main* branch is the ZIP version (Zips the files)``` <br>
 ```The *AWC-1.0.4-Final* version in the release section saves all converts to "converted" folder.```
 
-## Requirements
+## Installation
 Open ```PowerShell``` by right-clicking in the desired folder and selecting ```Open in Terminal``` if on Win11
 Once it opens, paste **this**
 ```c
