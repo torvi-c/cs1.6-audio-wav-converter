@@ -2,7 +2,7 @@
 
 ## How to use: 
 *Take your wav file/files and drag and drop them onto the .EXE file. <br>
-RECOMMENDED TO PUT THE EXE FILE INTO A SEPERATE FOLDER TO AVOID CLUTTER. <br> 
+<font color="green"> RECOMMENDED TO PUT THE EXE FILE INTO A SEPERATE FOLDER TO AVOID CLUTTER. </font> <br> 
 There is not limit to how many files you can drag and drop in one go so go all out. <br>
 Made for cs 1.6 wav sound requirements*
 
