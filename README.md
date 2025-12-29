@@ -6,7 +6,7 @@ This program allows the conversion of one or multiple wav files to a wav format 
 Take your wav file/files and drag and drop them onto the .EXE file. <br>
 It should output the new WAV files to a folder named "converted" <br>
 There is not limit to how many files you can drag and drop in one go so go all out. <br>
-Made for cs 1.6 wav sound requirements*
+Made for cs GoldSrc wav sound requirements*
 
 ## Installation
 Open ```PowerShell``` by right-clicking in the desired folder and selecting ```Open in Terminal``` if on Win11
