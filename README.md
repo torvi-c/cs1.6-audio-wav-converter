@@ -29,4 +29,4 @@ Bit Rate: 352kbps
 ## Licence
 <a name="LICENCE_LINK"> GPL-3.0 Licence <a>
 
-[https://github.com/torvi-c/cs1.6-audio-wav-converter#GPL-3.0-1-ov-file](#LICENCE_LINK)
+[a https://github.com/torvi-c/cs1.6-audio-wav-converter#GPL-3.0-1-ov-file](#LICENCE_LINK)
