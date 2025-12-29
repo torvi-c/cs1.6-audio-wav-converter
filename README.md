@@ -27,4 +27,4 @@ Audio Sample Size: 16bit Wav \
 Bit Rate: 352kbps
 
 ## Licence
-[GPL-3.0 Licence](https://github.com/torvi-c/cs1.6-audio-wav-converter#GPL-3.0-1-ov-file)
+Licenced under [GPL-3.0 Licence](https://github.com/torvi-c/cs1.6-audio-wav-converter#GPL-3.0-1-ov-file)
