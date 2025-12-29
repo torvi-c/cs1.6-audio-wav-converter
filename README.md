@@ -7,9 +7,6 @@ Take your wav file/files and drag and drop them onto the .EXE file. <br>
 There is not limit to how many files you can drag and drop in one go so go all out. <br>
 Made for cs 1.6 wav sound requirements*
 
-```The version here on the *main* branch is the ZIP version (Zips the files)``` <br>
-```The *AWC-1.0.4-Final* version in the release section saves all converts to "converted" folder.```
-
 ## Installation
 Open ```PowerShell``` by right-clicking in the desired folder and selecting ```Open in Terminal``` if on Win11
 Once it opens, paste **this**
