@@ -12,7 +12,6 @@ Made for cs 1.6 wav sound requirements*
 ```The *AWC-1.0.4-Final* version in the release section saves all converts to "converted" folder.```
 
 ## Requirements
-**ffmpeg**
 ```c
 winget install ffmpeg
 ```
