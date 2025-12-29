@@ -1,4 +1,5 @@
 # cs1.6-audio-wav-converter
+This program allows the conversion of one or multiple wav files to a wav format supported by the GoldSrc engine.
 
 ## How to use: 
 *Take your wav file/files and drag and drop them onto the .EXE file. <br>
