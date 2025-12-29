@@ -4,7 +4,7 @@ This program allows the conversion of one or multiple wav files to a wav format 
 ## How to use
 *```RECOMMENDED TO PUT THE EXE FILE INTO A SEPERATE FOLDER TO AVOID CLUTTER.``` <br> 
 Take your wav file/files and drag and drop them onto the .EXE file. <br>
-It should output the new WAV files to a folder named "Converted" <br>
+It should output the new WAV files to a folder named "converted" <br>
 There is not limit to how many files you can drag and drop in one go so go all out. <br>
 Made for cs 1.6 wav sound requirements*
 
