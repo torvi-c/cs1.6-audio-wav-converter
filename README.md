@@ -2,7 +2,8 @@
 This program allows the conversion of one or multiple wav files to a wav format supported by the GoldSrc engine.
 
 ## How to use: 
-*Take your wav file/files and drag and drop them onto the .EXE file. <br>
+*DOWNLOAD FROM THE RELEASE TAB RIGHT OVER HERE (AWC-1.0.4-Final) ---> 
+Take your wav file/files and drag and drop them onto the .EXE file. <br>
 RECOMMENDED TO PUT THE EXE FILE INTO A SEPERATE FOLDER TO AVOID CLUTTER. <br> 
 There is not limit to how many files you can drag and drop in one go so go all out. <br>
 Made for cs 1.6 wav sound requirements*
