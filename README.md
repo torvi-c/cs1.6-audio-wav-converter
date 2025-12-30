@@ -12,7 +12,7 @@ Made for cs GoldSrc wav sound requirements*
 Open ```PowerShell``` by right-clicking in the desired folder and selecting ```Open in Terminal``` if on Win11 <br>
 Once it opens, paste **this**
 ```c
-Invoke-WebRequest "https://github.com/torvi-c/cs1.6-audio-wav-converter/releases/download/1.0.5/install.ps1" -OutFile ".\cs16-installer.ps1"; powershell -NoProfile -ExecutionPolicy Bypass -File ".\cs16-installer.ps1"; Remove-Item ".\cs16-installer.ps1" -Force
+Invoke-WebRequest "https://github.com/torvi-c/cs1.6-audio-wav-converter/releases/download/1.0.6/install.ps1" -OutFile ".\awc-installer.ps1"; powershell -NoProfile -ExecutionPolicy Bypass -File ".\awc-installer.ps1"; Remove-Item ".\awc-installer.ps1" -Force
 ```
 It should install the .exe file there with no problems. <br>
 *If ```ffmpeg``` fails to work (No files show up in "converted" folder), install it through ```CMD```*
